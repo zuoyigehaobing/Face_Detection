@@ -1,5 +1,10 @@
 # Face_Detection
-Video-Shot-Detection, Face_Detection,Face_Tracking, Gender_Classification
+
+Video Shot Detection
+
+Face Detection and Face Tracking (Sliding Window + HoG Detector)
+
+Gender Classification
 
 ## Demo
 
@@ -30,7 +35,7 @@ Video-Shot-Detection, Face_Detection,Face_Tracking, Gender_Classification
 <img src="https://github.com/zuoyigehaobing/transit/blob/master/pics/p1.png" width="800">
 
 
-### For Brief Description see [HERE](https://github.com/zuoyigehaobing/Face_Detection/blob/master/presentation.pdf)
+#### For Brief Description see [HERE](https://github.com/zuoyigehaobing/Face_Detection/blob/master/presentation.pdf)
 
-### For Detailed Description see [HERE](https://github.com/zuoyigehaobing/Face_Detection/blob/master/REPORT.pdf)
+#### For Detailed Description see [HERE](https://github.com/zuoyigehaobing/Face_Detection/blob/master/REPORT.pdf)
 
