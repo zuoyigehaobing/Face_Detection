@@ -17,17 +17,17 @@ Gender Classification
 
 - SSD/SAD
 
-<img src="https://github.com/zuoyigehaobing/Face_Detection/blob/master/pics/p2-3%20(dragged).png" width="350"> <img src="https://github.com/zuoyigehaobing/Face_Detection/blob/master/pics/p2-4%20(dragged).png" width="350">
+<img src="https://github.com/zuoyigehaobing/Face_Detection/blob/master/pics/p23.png" width="350"> <img src="https://github.com/zuoyigehaobing/Face_Detection/blob/master/pics/p24.png" width="350">
 
 - HIST
 
-<img src="https://github.com/zuoyigehaobing/Face_Detection/blob/master/pics/p2-5%20(dragged).png" width="350"> <img src="https://github.com/zuoyigehaobing/Face_Detection/blob/master/pics/p2-6%20(dragged).png" width="350">
+<img src="https://github.com/zuoyigehaobing/Face_Detection/blob/master/pics/p25.png" width=350"> <img src="https://github.com/zuoyigehaobing/Face_Detection/blob/master/pics/p26.png" width="350">
 
 ### (HoG) Face Detector and NMS
 
 - Approach
 
-<img src="https://github.com/zuoyigehaobing/Face_Detection/blob/master/pics/p2-11%20(dragged).png" width="800">
+<img src="https://github.com/zuoyigehaobing/Face_Detection/blob/master/pics/p211.png" width="800">
 
 - NMS EFFECT
 
