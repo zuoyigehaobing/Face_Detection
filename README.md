@@ -21,7 +21,7 @@ Gender Classification
 
 - HIST
 
-<img src="https://github.com/zuoyigehaobing/Face_Detection/blob/master/pics/p25.png" width=350"> <img src="https://github.com/zuoyigehaobing/Face_Detection/blob/master/pics/p26.png" width="350">
+<img src="https://github.com/zuoyigehaobing/Face_Detection/blob/master/pics/p25.png" width="350"> <img src="https://github.com/zuoyigehaobing/Face_Detection/blob/master/pics/p26.png" width="350">
 
 ### (HoG) Face Detector and NMS
 
