@@ -15,7 +15,7 @@ Gender Classification
 
 ### Shot Detection Approaches
 
-- SSD/SAD
+- SAD
 
 <img src="https://github.com/zuoyigehaobing/Face_Detection/blob/master/pics/p23.png" width="350"> <img src="https://github.com/zuoyigehaobing/Face_Detection/blob/master/pics/p24.png" width="350">
 
